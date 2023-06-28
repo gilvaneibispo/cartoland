@@ -1,0 +1,17 @@
+# home
+info rodada
+select rodada
+
+# filter
+price
+position
+team
+status
+
+# team
+scout
+principal data (dados como mandante)
+visitor data (dados como visitante)
+
+# soccer player
+general info (entrou_em_campo | ultima pontuação | posicao | clube | scout)

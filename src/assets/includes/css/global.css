@@ -1,0 +1,57 @@
+:root{
+    --bg-primary: #04041e;
+    --bg-secondary: #040416;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+body{
+    background: var(--bg-primary);
+    font-family: 'Dosis', sans-serif;
+    font-weight: 300;
+    color: #eef;
+}
+
+a{
+    color: #ea777b;
+    text-transform: none;
+    transition: all .3s;
+    opacity: 0.85;
+}
+
+a:hover{
+    opacity: 1;
+    transition: all .3s;
+}
+
+/* general class */
+.app-pt{
+    padding-top: 3rem !important;
+}
+
+.app-pl{
+    padding-left: 3rem !important;
+}
+
+.app-pb{
+    padding-bottom: 3rem !important;
+}
+
+.app-pr{
+    padding-right: 3rem !important;
+}
+
+/* Sobrescrevendo o VuetifyJS */
+.v-field__outline{
+    display: none !important;
+}
+
+.v-input__control{
+    border-radius: 1.2rem;
+    overflow: hidden;
+}
