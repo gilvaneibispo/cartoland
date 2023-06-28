@@ -1,7 +1,7 @@
 # Cartoland
 Cartoland is a site to compile relevant information, facilitating the of decisions when choosing players for your team in Fantasy Game Cartola FC.
 
-![Logo UPTAdmin](http://www.upt.uefs.br/uploads/img/logo_upt_admin.png)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ### Technologies
 - VueJS (3.2.13)
